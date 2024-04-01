@@ -404,7 +404,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 339c4b6bb28288140952235c57b0905b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ModelFile: {fileID: 5022602860645237092, guid: e9ecb803cf8dd764fac799be2017fd1b, type: 3}
+  ModelFile: {fileID: 5022602860645237092, guid: cbd77b8bcd1fd744791c320b222da215, type: 3}
   ImageUI: {fileID: 1780323367}
   MinBoxConfidence: 0.223
   textureProviderType: 0
